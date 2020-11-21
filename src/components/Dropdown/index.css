@@ -7,11 +7,11 @@
 .dropdown{
     padding:0.7em;
     border-radius:30px;
-    color: rgb(131, 131, 131);
+    color: rgb(53, 53, 53);
     border: none;
     font-size:1em;
     font-family: 'Poppins', sans-serif;
-    background-color: rgb(245, 245, 245);
+    background-color: rgb(255, 255, 255);
 }
 
 .contDrop .button{
