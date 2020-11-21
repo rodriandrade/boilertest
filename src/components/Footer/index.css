@@ -1,0 +1,16 @@
+.App-Footer{
+    height:300px;
+    background-color: #000;
+    color:#fff;
+}
+
+.footer{
+    background-color: #282c34!important;
+    padding: 3rem 1.5rem 6rem;
+    color: white;
+    margin-top: 8em;
+}
+
+.footer h2, strong{
+    color: white;
+}

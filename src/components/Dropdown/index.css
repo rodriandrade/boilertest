@@ -1,0 +1,20 @@
+.dropdownContainer{
+    margin-bottom:2em;
+    display: flex;
+    margin-left:10em;
+}
+
+.dropdown{
+    padding:0.7em;
+    border-radius:30px;
+    color: rgb(131, 131, 131);
+    border: none;
+    font-size:1em;
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(245, 245, 245);
+}
+
+.contDrop .button{
+    margin: 0px 0px 0px 15px !important;
+    border-radius:30px !important;
+}

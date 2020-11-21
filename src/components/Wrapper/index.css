@@ -1,0 +1,9 @@
+.App-Wrapper{
+    max-width: 1200px; 
+    margin: 0 auto;
+}
+
+.container{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
