@@ -156,14 +156,8 @@ handleAddEmployeeSubmit = event => {
     //Se ejecuta al inicio y cada vez que cambia el state
 
     const {
-      newEmployee,
-      employees,
-      idMonthEmployee,
-      dropdownActive,
       sectors,
-      selectedSector,
-      modalActive,
-      employeeToEdit,
+      modalActive
     } = this.state
 
     return (

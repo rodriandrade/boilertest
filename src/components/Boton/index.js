@@ -1,8 +1,7 @@
 import React from 'react';
 
 const Boton = props =>{
-    const { caption, handleEditEmployee, employeeId } = props;
-    const handleClick= (event) => console.log('clicked', event);
+    const {handleEditEmployee, employeeId } = props;
     
     return(
         <button onClick = { () => handleEditEmployee(employeeId) } className="button is-link is-rounded">

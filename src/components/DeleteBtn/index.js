@@ -2,7 +2,7 @@ import React from 'react'
 
 const BtnDelete = props =>{
 
-    const{employeeId, handleRemoveEmployee, employeeData} = props
+    const{employeeId, handleRemoveEmployee} = props
 
     return(
         <button className="button is-danger is-rounded" onClick={()=> handleRemoveEmployee(employeeId)}>
